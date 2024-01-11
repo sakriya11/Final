@@ -1,0 +1,70 @@
+E:\College Folder\HCI\WinFormsApp5\bin\Debug\net6.0-windows\WinFormsApp5.exe
+E:\College Folder\HCI\WinFormsApp5\bin\Debug\net6.0-windows\WinFormsApp5.deps.json
+E:\College Folder\HCI\WinFormsApp5\bin\Debug\net6.0-windows\WinFormsApp5.runtimeconfig.json
+E:\College Folder\HCI\WinFormsApp5\bin\Debug\net6.0-windows\WinFormsApp5.dll
+E:\College Folder\HCI\WinFormsApp5\bin\Debug\net6.0-windows\WinFormsApp5.pdb
+E:\College Folder\HCI\WinFormsApp5\obj\Debug\net6.0-windows\WinFormsApp5.csproj.GenerateResource.cache
+E:\College Folder\HCI\WinFormsApp5\obj\Debug\net6.0-windows\WinFormsApp5.GeneratedMSBuildEditorConfig.editorconfig
+E:\College Folder\HCI\WinFormsApp5\obj\Debug\net6.0-windows\WinFormsApp5.AssemblyInfoInputs.cache
+E:\College Folder\HCI\WinFormsApp5\obj\Debug\net6.0-windows\WinFormsApp5.AssemblyInfo.cs
+E:\College Folder\HCI\WinFormsApp5\obj\Debug\net6.0-windows\WinFormsApp5.csproj.CoreCompileInputs.cache
+E:\College Folder\HCI\WinFormsApp5\obj\Debug\net6.0-windows\WinFormsApp5.dll
+E:\College Folder\HCI\WinFormsApp5\obj\Debug\net6.0-windows\refint\WinFormsApp5.dll
+E:\College Folder\HCI\WinFormsApp5\obj\Debug\net6.0-windows\WinFormsApp5.pdb
+E:\College Folder\HCI\WinFormsApp5\obj\Debug\net6.0-windows\WinFormsApp5.genruntimeconfig.cache
+E:\College Folder\HCI\WinFormsApp5\obj\Debug\net6.0-windows\ref\WinFormsApp5.dll
+E:\College Folder\HCI\WinFormsApp5\obj\Debug\net6.0-windows\WinFormsApp5.frmMainform.resources
+E:\College Folder\HCI\WinFormsApp5\obj\Debug\net6.0-windows\WinFormsApp5.frmLogin.resources
+E:\College Folder\HCI\WinFormsApp5\obj\Debug\net6.0-windows\WinFormsApp5.Properties.Resources.resources
+C:\Users\tilak\Source\Repos\HCIProject\bin\Debug\net6.0-windows\WinFormsApp5.exe
+C:\Users\tilak\Source\Repos\HCIProject\bin\Debug\net6.0-windows\WinFormsApp5.deps.json
+C:\Users\tilak\Source\Repos\HCIProject\bin\Debug\net6.0-windows\WinFormsApp5.runtimeconfig.json
+C:\Users\tilak\Source\Repos\HCIProject\bin\Debug\net6.0-windows\WinFormsApp5.dll
+C:\Users\tilak\Source\Repos\HCIProject\bin\Debug\net6.0-windows\WinFormsApp5.pdb
+C:\Users\tilak\Source\Repos\HCIProject\obj\Debug\net6.0-windows\WinFormsApp5.frmMainform.resources
+C:\Users\tilak\Source\Repos\HCIProject\obj\Debug\net6.0-windows\WinFormsApp5.frmLogin.resources
+C:\Users\tilak\Source\Repos\HCIProject\obj\Debug\net6.0-windows\WinFormsApp5.Properties.Resources.resources
+C:\Users\tilak\Source\Repos\HCIProject\obj\Debug\net6.0-windows\WinFormsApp5.csproj.GenerateResource.cache
+C:\Users\tilak\Source\Repos\HCIProject\obj\Debug\net6.0-windows\WinFormsApp5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tilak\Source\Repos\HCIProject\obj\Debug\net6.0-windows\WinFormsApp5.AssemblyInfoInputs.cache
+C:\Users\tilak\Source\Repos\HCIProject\obj\Debug\net6.0-windows\WinFormsApp5.AssemblyInfo.cs
+C:\Users\tilak\Source\Repos\HCIProject\obj\Debug\net6.0-windows\WinFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\tilak\Source\Repos\HCIProject\obj\Debug\net6.0-windows\WinFormsApp5.sourcelink.json
+C:\Users\tilak\Source\Repos\HCIProject\obj\Debug\net6.0-windows\WinFormsApp5.dll
+C:\Users\tilak\Source\Repos\HCIProject\obj\Debug\net6.0-windows\refint\WinFormsApp5.dll
+C:\Users\tilak\Source\Repos\HCIProject\obj\Debug\net6.0-windows\WinFormsApp5.pdb
+C:\Users\tilak\Source\Repos\HCIProject\obj\Debug\net6.0-windows\WinFormsApp5.genruntimeconfig.cache
+C:\Users\tilak\Source\Repos\HCIProject\obj\Debug\net6.0-windows\ref\WinFormsApp5.dll
+C:\Users\tilak\source\repos\HCIProject\obj\Debug\net6.0-windows\WinFormsApp5.frmEditInstructor.resources
+C:\Users\tilak\source\repos\HCIProject\obj\Debug\net6.0-windows\WinFormsApp5.frmEditStudent.resources
+C:\Users\tilak\source\repos\HCIProject\obj\Debug\net6.0-windows\WinFormsApp5.frmRegisterInstructor.resources
+C:\Users\tilak\source\repos\HCIProject\obj\Debug\net6.0-windows\WinFormsApp5.frmRegisterStudent.resources
+C:\Users\tilak\source\repos\HCIProject\obj\Debug\net6.0-windows\WinFormsApp5.frmViewInstructor.resources
+C:\Users\tilak\source\repos\HCIProject\obj\Debug\net6.0-windows\WinFormsApp5.frmViewStudent.resources
+C:\Users\tilak\source\repos\HCIProject\obj\Debug\net6.0-windows\WinFormsApp5.frmBooking.resources
+D:\HCI Project\HCIProject\bin\Debug\net6.0-windows\WinFormsApp5.exe
+D:\HCI Project\HCIProject\bin\Debug\net6.0-windows\WinFormsApp5.deps.json
+D:\HCI Project\HCIProject\bin\Debug\net6.0-windows\WinFormsApp5.runtimeconfig.json
+D:\HCI Project\HCIProject\bin\Debug\net6.0-windows\WinFormsApp5.dll
+D:\HCI Project\HCIProject\bin\Debug\net6.0-windows\WinFormsApp5.pdb
+D:\HCI Project\HCIProject\obj\Debug\net6.0-windows\WinFormsApp5.frmBooking.resources
+D:\HCI Project\HCIProject\obj\Debug\net6.0-windows\WinFormsApp5.frmEditInstructor.resources
+D:\HCI Project\HCIProject\obj\Debug\net6.0-windows\WinFormsApp5.frmEditStudent.resources
+D:\HCI Project\HCIProject\obj\Debug\net6.0-windows\WinFormsApp5.frmMainform.resources
+D:\HCI Project\HCIProject\obj\Debug\net6.0-windows\WinFormsApp5.frmRegisterInstructor.resources
+D:\HCI Project\HCIProject\obj\Debug\net6.0-windows\WinFormsApp5.frmRegisterStudent.resources
+D:\HCI Project\HCIProject\obj\Debug\net6.0-windows\WinFormsApp5.frmViewInstructor.resources
+D:\HCI Project\HCIProject\obj\Debug\net6.0-windows\WinFormsApp5.frmViewStudent.resources
+D:\HCI Project\HCIProject\obj\Debug\net6.0-windows\WinFormsApp5.frmLogin.resources
+D:\HCI Project\HCIProject\obj\Debug\net6.0-windows\WinFormsApp5.Properties.Resources.resources
+D:\HCI Project\HCIProject\obj\Debug\net6.0-windows\WinFormsApp5.csproj.GenerateResource.cache
+D:\HCI Project\HCIProject\obj\Debug\net6.0-windows\WinFormsApp5.GeneratedMSBuildEditorConfig.editorconfig
+D:\HCI Project\HCIProject\obj\Debug\net6.0-windows\WinFormsApp5.AssemblyInfoInputs.cache
+D:\HCI Project\HCIProject\obj\Debug\net6.0-windows\WinFormsApp5.AssemblyInfo.cs
+D:\HCI Project\HCIProject\obj\Debug\net6.0-windows\WinFormsApp5.csproj.CoreCompileInputs.cache
+D:\HCI Project\HCIProject\obj\Debug\net6.0-windows\WinFormsApp5.sourcelink.json
+D:\HCI Project\HCIProject\obj\Debug\net6.0-windows\WinFormsApp5.dll
+D:\HCI Project\HCIProject\obj\Debug\net6.0-windows\refint\WinFormsApp5.dll
+D:\HCI Project\HCIProject\obj\Debug\net6.0-windows\WinFormsApp5.pdb
+D:\HCI Project\HCIProject\obj\Debug\net6.0-windows\WinFormsApp5.genruntimeconfig.cache
+D:\HCI Project\HCIProject\obj\Debug\net6.0-windows\ref\WinFormsApp5.dll
